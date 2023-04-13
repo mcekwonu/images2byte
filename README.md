@@ -32,13 +32,14 @@ Image to Bytes Converter v.0.0.1
 3. Run code with input folder, destination folder, filename and option "-pkl" to saved images as pkl or "png" to extract images.
 
 For example
-To save images as pkl
+
 ```python
+#  To save images as pkl
 > python -m images_byte -i path/to/input-images -o /destination-folder -f output-filename -pkl
 ```
 
-To extract images from "pkl" file and save as .png
 ```python
+# To extract images from "pkl" file and save as .png
 > python -m images_byte -i path/to/input-pkl-file -o /destination-folder -f output-filename -png
 ```
 
