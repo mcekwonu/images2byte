@@ -1,4 +1,4 @@
-# images2bytes
+# images2byte
 Write images to byte strings and saved as .pkl. And also converts byte strings to .png
 
 ## Usage
