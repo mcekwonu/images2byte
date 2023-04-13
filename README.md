@@ -2,16 +2,16 @@
 Write images to byte strings and saved as .pkl. And also converts byte strings to .png
 
 ## Usage
-1. Download the image_bytes.py into your desired folder
+1. Download the images_byte.py into your desired folder
 2. Open the folder and open terminal(if you are using Linux OS) or cmd(if you are using Windows OS) and type the command:
 
 ```python
-> python -m image_bytes -h
+> python -m images_byte -h
 
-usage: Image to Bytes Converter [-h] -i Input Directory -o Output Directory -f Filename [-n [Num Images]] [-pkl]
+usage: Images to Byte Converter [-h] -i Input Directory -o Output Directory -f Filename [-n [Num Images]] [-pkl]
                                 [-png]
 
-Converts images into bytes, saved as .pkl
+Converts images into byte, saved as .pkl
 
 options:
   -h, --help            show this help message and exit
