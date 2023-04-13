@@ -1,6 +1,8 @@
 # images2byte
 Write images to byte strings and saved as .pkl. And also converts byte strings to .png
 
+![png]
+
 ## Usage
 1. Download the images_byte.py into your desired folder
 2. Open the folder and open terminal or cmd in the folder. Type the command:
