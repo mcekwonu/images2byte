@@ -3,7 +3,7 @@ Write images to byte strings and saved as .pkl. And also converts byte strings t
 
 ## Usage
 1. Download the images_byte.py into your desired folder
-2. Open the folder and open terminal(if you are using Linux OS) or cmd(if you are using Windows OS) and type the command:
+2. Open the folder and open terminal or cmd in the folder. Type the command:
 
 ```python
 > python -m images_byte -h
